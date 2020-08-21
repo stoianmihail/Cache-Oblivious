@@ -1,0 +1,650 @@
+Level 2: Starts with: 2
+(period=1, jump=1), 
+Level 2: Starts with: 2
+(period=1, jump=3), 
+Level 3: Starts with: 3
+(period=1, jump=1), (period=2, jump=2), 
+Level 2: Starts with: 2
+(period=1, jump=1), 
+Level 3: Starts with: 4
+(period=1, jump=3), 
+Level 4: Starts with: 5
+(period=1, jump=1), (period=2, jump=2), 
+Level 2: Starts with: 2
+(period=1, jump=1), 
+Level 3: Starts with: 4
+(period=1, jump=7), 
+Level 4: Starts with: 5
+(period=1, jump=3), (period=2, jump=4), 
+Level 5: Starts with: 6
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), 
+Level 2: Starts with: 2
+(period=1, jump=3), 
+Level 3: Starts with: 3
+(period=1, jump=1), (period=2, jump=2), 
+Level 4: Starts with: 8
+(period=1, jump=7), 
+Level 5: Starts with: 9
+(period=1, jump=3), (period=2, jump=4), 
+Level 6: Starts with: 10
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), 
+Level 2: Starts with: 2
+(period=1, jump=3), 
+Level 3: Starts with: 3
+(period=1, jump=1), (period=2, jump=2), 
+Level 4: Starts with: 8
+(period=1, jump=15), 
+Level 5: Starts with: 9
+(period=1, jump=1), (period=2, jump=14), 
+Level 6: Starts with: 11
+(period=1, jump=3), (period=4, jump=6), 
+Level 7: Starts with: 12
+(period=1, jump=1), (period=2, jump=2), (period=8, jump=5), 
+Level 2: Starts with: 2
+(period=1, jump=1), 
+Level 3: Starts with: 4
+(period=1, jump=3), 
+Level 4: Starts with: 5
+(period=1, jump=1), (period=2, jump=2), 
+Level 5: Starts with: 16
+(period=1, jump=15), 
+Level 6: Starts with: 17
+(period=1, jump=1), (period=2, jump=14), 
+Level 7: Starts with: 19
+(period=1, jump=3), (period=4, jump=6), 
+Level 8: Starts with: 20
+(period=1, jump=1), (period=2, jump=2), (period=8, jump=5), 
+Level 2: Starts with: 2
+(period=1, jump=1), 
+Level 3: Starts with: 4
+(period=1, jump=3), 
+Level 4: Starts with: 5
+(period=1, jump=1), (period=2, jump=2), 
+Level 5: Starts with: 16
+(period=1, jump=31), 
+Level 6: Starts with: 17
+(period=1, jump=1), (period=2, jump=30), 
+Level 7: Starts with: 19
+(period=1, jump=7), (period=4, jump=10), 
+Level 8: Starts with: 20
+(period=1, jump=3), (period=2, jump=4), (period=8, jump=7), 
+Level 9: Starts with: 21
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=16, jump=6), 
+Level 2: Starts with: 2
+(period=1, jump=1), 
+Level 3: Starts with: 4
+(period=1, jump=7), 
+Level 4: Starts with: 5
+(period=1, jump=3), (period=2, jump=4), 
+Level 5: Starts with: 6
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), 
+Level 6: Starts with: 32
+(period=1, jump=31), 
+Level 7: Starts with: 33
+(period=1, jump=1), (period=2, jump=30), 
+Level 8: Starts with: 35
+(period=1, jump=7), (period=4, jump=10), 
+Level 9: Starts with: 36
+(period=1, jump=3), (period=2, jump=4), (period=8, jump=7), 
+Level 10: Starts with: 37
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=16, jump=6), 
+Level 2: Starts with: 2
+(period=1, jump=1), 
+Level 3: Starts with: 4
+(period=1, jump=7), 
+Level 4: Starts with: 5
+(period=1, jump=3), (period=2, jump=4), 
+Level 5: Starts with: 6
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), 
+Level 6: Starts with: 32
+(period=1, jump=63), 
+Level 7: Starts with: 33
+(period=1, jump=3), (period=2, jump=60), 
+Level 8: Starts with: 34
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=59), 
+Level 9: Starts with: 39
+(period=1, jump=7), (period=8, jump=14), 
+Level 10: Starts with: 40
+(period=1, jump=3), (period=2, jump=4), (period=16, jump=11), 
+Level 11: Starts with: 41
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=32, jump=10), 
+Level 2: Starts with: 2
+(period=1, jump=3), 
+Level 3: Starts with: 3
+(period=1, jump=1), (period=2, jump=2), 
+Level 4: Starts with: 8
+(period=1, jump=7), 
+Level 5: Starts with: 9
+(period=1, jump=3), (period=2, jump=4), 
+Level 6: Starts with: 10
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), 
+Level 7: Starts with: 64
+(period=1, jump=63), 
+Level 8: Starts with: 65
+(period=1, jump=3), (period=2, jump=60), 
+Level 9: Starts with: 66
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=59), 
+Level 10: Starts with: 71
+(period=1, jump=7), (period=8, jump=14), 
+Level 11: Starts with: 72
+(period=1, jump=3), (period=2, jump=4), (period=16, jump=11), 
+Level 12: Starts with: 73
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=32, jump=10), 
+Level 2: Starts with: 2
+(period=1, jump=3), 
+Level 3: Starts with: 3
+(period=1, jump=1), (period=2, jump=2), 
+Level 4: Starts with: 8
+(period=1, jump=7), 
+Level 5: Starts with: 9
+(period=1, jump=3), (period=2, jump=4), 
+Level 6: Starts with: 10
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), 
+Level 7: Starts with: 64
+(period=1, jump=127), 
+Level 8: Starts with: 65
+(period=1, jump=3), (period=2, jump=124), 
+Level 9: Starts with: 66
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=123), 
+Level 10: Starts with: 71
+(period=1, jump=15), (period=8, jump=22), 
+Level 11: Starts with: 72
+(period=1, jump=1), (period=2, jump=14), (period=16, jump=21), 
+Level 12: Starts with: 74
+(period=1, jump=3), (period=4, jump=6), (period=32, jump=13), 
+Level 13: Starts with: 75
+(period=1, jump=1), (period=2, jump=2), (period=8, jump=5), (period=64, jump=12), 
+Level 2: Starts with: 2
+(period=1, jump=3), 
+Level 3: Starts with: 3
+(period=1, jump=1), (period=2, jump=2), 
+Level 4: Starts with: 8
+(period=1, jump=15), 
+Level 5: Starts with: 9
+(period=1, jump=1), (period=2, jump=14), 
+Level 6: Starts with: 11
+(period=1, jump=3), (period=4, jump=6), 
+Level 7: Starts with: 12
+(period=1, jump=1), (period=2, jump=2), (period=8, jump=5), 
+Level 8: Starts with: 128
+(period=1, jump=127), 
+Level 9: Starts with: 129
+(period=1, jump=3), (period=2, jump=124), 
+Level 10: Starts with: 130
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=123), 
+Level 11: Starts with: 135
+(period=1, jump=15), (period=8, jump=22), 
+Level 12: Starts with: 136
+(period=1, jump=1), (period=2, jump=14), (period=16, jump=21), 
+Level 13: Starts with: 138
+(period=1, jump=3), (period=4, jump=6), (period=32, jump=13), 
+Level 14: Starts with: 139
+(period=1, jump=1), (period=2, jump=2), (period=8, jump=5), (period=64, jump=12), 
+Level 2: Starts with: 2
+(period=1, jump=3), 
+Level 3: Starts with: 3
+(period=1, jump=1), (period=2, jump=2), 
+Level 4: Starts with: 8
+(period=1, jump=15), 
+Level 5: Starts with: 9
+(period=1, jump=1), (period=2, jump=14), 
+Level 6: Starts with: 11
+(period=1, jump=3), (period=4, jump=6), 
+Level 7: Starts with: 12
+(period=1, jump=1), (period=2, jump=2), (period=8, jump=5), 
+Level 8: Starts with: 128
+(period=1, jump=255), 
+Level 9: Starts with: 129
+(period=1, jump=1), (period=2, jump=254), 
+Level 10: Starts with: 131
+(period=1, jump=3), (period=4, jump=246), 
+Level 11: Starts with: 132
+(period=1, jump=1), (period=2, jump=2), (period=8, jump=245), 
+Level 12: Starts with: 143
+(period=1, jump=15), (period=16, jump=30), 
+Level 13: Starts with: 144
+(period=1, jump=1), (period=2, jump=14), (period=32, jump=29), 
+Level 14: Starts with: 146
+(period=1, jump=3), (period=4, jump=6), (period=64, jump=21), 
+Level 15: Starts with: 147
+(period=1, jump=1), (period=2, jump=2), (period=8, jump=5), (period=128, jump=20), 
+Level 2: Starts with: 2
+(period=1, jump=1), 
+Level 3: Starts with: 4
+(period=1, jump=3), 
+Level 4: Starts with: 5
+(period=1, jump=1), (period=2, jump=2), 
+Level 5: Starts with: 16
+(period=1, jump=15), 
+Level 6: Starts with: 17
+(period=1, jump=1), (period=2, jump=14), 
+Level 7: Starts with: 19
+(period=1, jump=3), (period=4, jump=6), 
+Level 8: Starts with: 20
+(period=1, jump=1), (period=2, jump=2), (period=8, jump=5), 
+Level 9: Starts with: 256
+(period=1, jump=255), 
+Level 10: Starts with: 257
+(period=1, jump=1), (period=2, jump=254), 
+Level 11: Starts with: 259
+(period=1, jump=3), (period=4, jump=246), 
+Level 12: Starts with: 260
+(period=1, jump=1), (period=2, jump=2), (period=8, jump=245), 
+Level 13: Starts with: 271
+(period=1, jump=15), (period=16, jump=30), 
+Level 14: Starts with: 272
+(period=1, jump=1), (period=2, jump=14), (period=32, jump=29), 
+Level 15: Starts with: 274
+(period=1, jump=3), (period=4, jump=6), (period=64, jump=21), 
+Level 16: Starts with: 275
+(period=1, jump=1), (period=2, jump=2), (period=8, jump=5), (period=128, jump=20), 
+Level 2: Starts with: 2
+(period=1, jump=1), 
+Level 3: Starts with: 4
+(period=1, jump=3), 
+Level 4: Starts with: 5
+(period=1, jump=1), (period=2, jump=2), 
+Level 5: Starts with: 16
+(period=1, jump=15), 
+Level 6: Starts with: 17
+(period=1, jump=1), (period=2, jump=14), 
+Level 7: Starts with: 19
+(period=1, jump=3), (period=4, jump=6), 
+Level 8: Starts with: 20
+(period=1, jump=1), (period=2, jump=2), (period=8, jump=5), 
+Level 9: Starts with: 256
+(period=1, jump=511), 
+Level 10: Starts with: 257
+(period=1, jump=1), (period=2, jump=510), 
+Level 11: Starts with: 259
+(period=1, jump=3), (period=4, jump=502), 
+Level 12: Starts with: 260
+(period=1, jump=1), (period=2, jump=2), (period=8, jump=501), 
+Level 13: Starts with: 271
+(period=1, jump=31), (period=16, jump=46), 
+Level 14: Starts with: 272
+(period=1, jump=1), (period=2, jump=30), (period=32, jump=45), 
+Level 15: Starts with: 274
+(period=1, jump=7), (period=4, jump=10), (period=64, jump=25), 
+Level 16: Starts with: 275
+(period=1, jump=3), (period=2, jump=4), (period=8, jump=7), (period=128, jump=22), 
+Level 17: Starts with: 276
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=16, jump=6), (period=256, jump=21), 
+Level 2: Starts with: 2
+(period=1, jump=1), 
+Level 3: Starts with: 4
+(period=1, jump=3), 
+Level 4: Starts with: 5
+(period=1, jump=1), (period=2, jump=2), 
+Level 5: Starts with: 16
+(period=1, jump=31), 
+Level 6: Starts with: 17
+(period=1, jump=1), (period=2, jump=30), 
+Level 7: Starts with: 19
+(period=1, jump=7), (period=4, jump=10), 
+Level 8: Starts with: 20
+(period=1, jump=3), (period=2, jump=4), (period=8, jump=7), 
+Level 9: Starts with: 21
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=16, jump=6), 
+Level 10: Starts with: 512
+(period=1, jump=511), 
+Level 11: Starts with: 513
+(period=1, jump=1), (period=2, jump=510), 
+Level 12: Starts with: 515
+(period=1, jump=3), (period=4, jump=502), 
+Level 13: Starts with: 516
+(period=1, jump=1), (period=2, jump=2), (period=8, jump=501), 
+Level 14: Starts with: 527
+(period=1, jump=31), (period=16, jump=46), 
+Level 15: Starts with: 528
+(period=1, jump=1), (period=2, jump=30), (period=32, jump=45), 
+Level 16: Starts with: 530
+(period=1, jump=7), (period=4, jump=10), (period=64, jump=25), 
+Level 17: Starts with: 531
+(period=1, jump=3), (period=2, jump=4), (period=8, jump=7), (period=128, jump=22), 
+Level 18: Starts with: 532
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=16, jump=6), (period=256, jump=21), 
+Level 2: Starts with: 2
+(period=1, jump=1), 
+Level 3: Starts with: 4
+(period=1, jump=3), 
+Level 4: Starts with: 5
+(period=1, jump=1), (period=2, jump=2), 
+Level 5: Starts with: 16
+(period=1, jump=31), 
+Level 6: Starts with: 17
+(period=1, jump=1), (period=2, jump=30), 
+Level 7: Starts with: 19
+(period=1, jump=7), (period=4, jump=10), 
+Level 8: Starts with: 20
+(period=1, jump=3), (period=2, jump=4), (period=8, jump=7), 
+Level 9: Starts with: 21
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=16, jump=6), 
+Level 10: Starts with: 512
+(period=1, jump=1023), 
+Level 11: Starts with: 513
+(period=1, jump=1), (period=2, jump=1022), 
+Level 12: Starts with: 515
+(period=1, jump=7), (period=4, jump=1002), 
+Level 13: Starts with: 516
+(period=1, jump=3), (period=2, jump=4), (period=8, jump=999), 
+Level 14: Starts with: 517
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=16, jump=998), 
+Level 15: Starts with: 543
+(period=1, jump=31), (period=32, jump=62), 
+Level 16: Starts with: 544
+(period=1, jump=1), (period=2, jump=30), (period=64, jump=61), 
+Level 17: Starts with: 546
+(period=1, jump=7), (period=4, jump=10), (period=128, jump=41), 
+Level 18: Starts with: 547
+(period=1, jump=3), (period=2, jump=4), (period=8, jump=7), (period=256, jump=38), 
+Level 19: Starts with: 548
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=16, jump=6), (period=512, jump=37), 
+Level 2: Starts with: 2
+(period=1, jump=1), 
+Level 3: Starts with: 4
+(period=1, jump=7), 
+Level 4: Starts with: 5
+(period=1, jump=3), (period=2, jump=4), 
+Level 5: Starts with: 6
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), 
+Level 6: Starts with: 32
+(period=1, jump=31), 
+Level 7: Starts with: 33
+(period=1, jump=1), (period=2, jump=30), 
+Level 8: Starts with: 35
+(period=1, jump=7), (period=4, jump=10), 
+Level 9: Starts with: 36
+(period=1, jump=3), (period=2, jump=4), (period=8, jump=7), 
+Level 10: Starts with: 37
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=16, jump=6), 
+Level 11: Starts with: 1024
+(period=1, jump=1023), 
+Level 12: Starts with: 1025
+(period=1, jump=1), (period=2, jump=1022), 
+Level 13: Starts with: 1027
+(period=1, jump=7), (period=4, jump=1002), 
+Level 14: Starts with: 1028
+(period=1, jump=3), (period=2, jump=4), (period=8, jump=999), 
+Level 15: Starts with: 1029
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=16, jump=998), 
+Level 16: Starts with: 1055
+(period=1, jump=31), (period=32, jump=62), 
+Level 17: Starts with: 1056
+(period=1, jump=1), (period=2, jump=30), (period=64, jump=61), 
+Level 18: Starts with: 1058
+(period=1, jump=7), (period=4, jump=10), (period=128, jump=41), 
+Level 19: Starts with: 1059
+(period=1, jump=3), (period=2, jump=4), (period=8, jump=7), (period=256, jump=38), 
+Level 20: Starts with: 1060
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=16, jump=6), (period=512, jump=37), 
+Level 2: Starts with: 2
+(period=1, jump=1), 
+Level 3: Starts with: 4
+(period=1, jump=7), 
+Level 4: Starts with: 5
+(period=1, jump=3), (period=2, jump=4), 
+Level 5: Starts with: 6
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), 
+Level 6: Starts with: 32
+(period=1, jump=31), 
+Level 7: Starts with: 33
+(period=1, jump=1), (period=2, jump=30), 
+Level 8: Starts with: 35
+(period=1, jump=7), (period=4, jump=10), 
+Level 9: Starts with: 36
+(period=1, jump=3), (period=2, jump=4), (period=8, jump=7), 
+Level 10: Starts with: 37
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=16, jump=6), 
+Level 11: Starts with: 1024
+(period=1, jump=2047), 
+Level 12: Starts with: 1025
+(period=1, jump=1), (period=2, jump=2046), 
+Level 13: Starts with: 1027
+(period=1, jump=7), (period=4, jump=2026), 
+Level 14: Starts with: 1028
+(period=1, jump=3), (period=2, jump=4), (period=8, jump=2023), 
+Level 15: Starts with: 1029
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=16, jump=2022), 
+Level 16: Starts with: 1055
+(period=1, jump=63), (period=32, jump=94), 
+Level 17: Starts with: 1056
+(period=1, jump=3), (period=2, jump=60), (period=64, jump=91), 
+Level 18: Starts with: 1057
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=59), (period=128, jump=90), 
+Level 19: Starts with: 1062
+(period=1, jump=7), (period=8, jump=14), (period=256, jump=45), 
+Level 20: Starts with: 1063
+(period=1, jump=3), (period=2, jump=4), (period=16, jump=11), (period=512, jump=42), 
+Level 21: Starts with: 1064
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=32, jump=10), (period=1024, jump=41), 
+Level 2: Starts with: 2
+(period=1, jump=1), 
+Level 3: Starts with: 4
+(period=1, jump=7), 
+Level 4: Starts with: 5
+(period=1, jump=3), (period=2, jump=4), 
+Level 5: Starts with: 6
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), 
+Level 6: Starts with: 32
+(period=1, jump=63), 
+Level 7: Starts with: 33
+(period=1, jump=3), (period=2, jump=60), 
+Level 8: Starts with: 34
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=59), 
+Level 9: Starts with: 39
+(period=1, jump=7), (period=8, jump=14), 
+Level 10: Starts with: 40
+(period=1, jump=3), (period=2, jump=4), (period=16, jump=11), 
+Level 11: Starts with: 41
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=32, jump=10), 
+Level 12: Starts with: 2048
+(period=1, jump=2047), 
+Level 13: Starts with: 2049
+(period=1, jump=1), (period=2, jump=2046), 
+Level 14: Starts with: 2051
+(period=1, jump=7), (period=4, jump=2026), 
+Level 15: Starts with: 2052
+(period=1, jump=3), (period=2, jump=4), (period=8, jump=2023), 
+Level 16: Starts with: 2053
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=16, jump=2022), 
+Level 17: Starts with: 2079
+(period=1, jump=63), (period=32, jump=94), 
+Level 18: Starts with: 2080
+(period=1, jump=3), (period=2, jump=60), (period=64, jump=91), 
+Level 19: Starts with: 2081
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=59), (period=128, jump=90), 
+Level 20: Starts with: 2086
+(period=1, jump=7), (period=8, jump=14), (period=256, jump=45), 
+Level 21: Starts with: 2087
+(period=1, jump=3), (period=2, jump=4), (period=16, jump=11), (period=512, jump=42), 
+Level 22: Starts with: 2088
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=32, jump=10), (period=1024, jump=41), 
+Level 2: Starts with: 2
+(period=1, jump=1), 
+Level 3: Starts with: 4
+(period=1, jump=7), 
+Level 4: Starts with: 5
+(period=1, jump=3), (period=2, jump=4), 
+Level 5: Starts with: 6
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), 
+Level 6: Starts with: 32
+(period=1, jump=63), 
+Level 7: Starts with: 33
+(period=1, jump=3), (period=2, jump=60), 
+Level 8: Starts with: 34
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=59), 
+Level 9: Starts with: 39
+(period=1, jump=7), (period=8, jump=14), 
+Level 10: Starts with: 40
+(period=1, jump=3), (period=2, jump=4), (period=16, jump=11), 
+Level 11: Starts with: 41
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=32, jump=10), 
+Level 12: Starts with: 2048
+(period=1, jump=4095), 
+Level 13: Starts with: 2049
+(period=1, jump=3), (period=2, jump=4092), 
+Level 14: Starts with: 2050
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=4091), 
+Level 15: Starts with: 2055
+(period=1, jump=7), (period=8, jump=4046), 
+Level 16: Starts with: 2056
+(period=1, jump=3), (period=2, jump=4), (period=16, jump=4043), 
+Level 17: Starts with: 2057
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=32, jump=4042), 
+Level 18: Starts with: 2111
+(period=1, jump=63), (period=64, jump=126), 
+Level 19: Starts with: 2112
+(period=1, jump=3), (period=2, jump=60), (period=128, jump=123), 
+Level 20: Starts with: 2113
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=59), (period=256, jump=122), 
+Level 21: Starts with: 2118
+(period=1, jump=7), (period=8, jump=14), (period=512, jump=77), 
+Level 22: Starts with: 2119
+(period=1, jump=3), (period=2, jump=4), (period=16, jump=11), (period=1024, jump=74), 
+Level 23: Starts with: 2120
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=32, jump=10), (period=2048, jump=73), 
+Level 2: Starts with: 2
+(period=1, jump=3), 
+Level 3: Starts with: 3
+(period=1, jump=1), (period=2, jump=2), 
+Level 4: Starts with: 8
+(period=1, jump=7), 
+Level 5: Starts with: 9
+(period=1, jump=3), (period=2, jump=4), 
+Level 6: Starts with: 10
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), 
+Level 7: Starts with: 64
+(period=1, jump=63), 
+Level 8: Starts with: 65
+(period=1, jump=3), (period=2, jump=60), 
+Level 9: Starts with: 66
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=59), 
+Level 10: Starts with: 71
+(period=1, jump=7), (period=8, jump=14), 
+Level 11: Starts with: 72
+(period=1, jump=3), (period=2, jump=4), (period=16, jump=11), 
+Level 12: Starts with: 73
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=32, jump=10), 
+Level 13: Starts with: 4096
+(period=1, jump=4095), 
+Level 14: Starts with: 4097
+(period=1, jump=3), (period=2, jump=4092), 
+Level 15: Starts with: 4098
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=4091), 
+Level 16: Starts with: 4103
+(period=1, jump=7), (period=8, jump=4046), 
+Level 17: Starts with: 4104
+(period=1, jump=3), (period=2, jump=4), (period=16, jump=4043), 
+Level 18: Starts with: 4105
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=32, jump=4042), 
+Level 19: Starts with: 4159
+(period=1, jump=63), (period=64, jump=126), 
+Level 20: Starts with: 4160
+(period=1, jump=3), (period=2, jump=60), (period=128, jump=123), 
+Level 21: Starts with: 4161
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=59), (period=256, jump=122), 
+Level 22: Starts with: 4166
+(period=1, jump=7), (period=8, jump=14), (period=512, jump=77), 
+Level 23: Starts with: 4167
+(period=1, jump=3), (period=2, jump=4), (period=16, jump=11), (period=1024, jump=74), 
+Level 24: Starts with: 4168
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=32, jump=10), (period=2048, jump=73), 
+Level 2: Starts with: 2
+(period=1, jump=3), 
+Level 3: Starts with: 3
+(period=1, jump=1), (period=2, jump=2), 
+Level 4: Starts with: 8
+(period=1, jump=7), 
+Level 5: Starts with: 9
+(period=1, jump=3), (period=2, jump=4), 
+Level 6: Starts with: 10
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), 
+Level 7: Starts with: 64
+(period=1, jump=63), 
+Level 8: Starts with: 65
+(period=1, jump=3), (period=2, jump=60), 
+Level 9: Starts with: 66
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=59), 
+Level 10: Starts with: 71
+(period=1, jump=7), (period=8, jump=14), 
+Level 11: Starts with: 72
+(period=1, jump=3), (period=2, jump=4), (period=16, jump=11), 
+Level 12: Starts with: 73
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=32, jump=10), 
+Level 13: Starts with: 4096
+(period=1, jump=8191), 
+Level 14: Starts with: 4097
+(period=1, jump=3), (period=2, jump=8188), 
+Level 15: Starts with: 4098
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=8187), 
+Level 16: Starts with: 4103
+(period=1, jump=7), (period=8, jump=8142), 
+Level 17: Starts with: 4104
+(period=1, jump=3), (period=2, jump=4), (period=16, jump=8139), 
+Level 18: Starts with: 4105
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=32, jump=8138), 
+Level 19: Starts with: 4159
+(period=1, jump=127), (period=64, jump=190), 
+Level 20: Starts with: 4160
+(period=1, jump=3), (period=2, jump=124), (period=128, jump=187), 
+Level 21: Starts with: 4161
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=123), (period=256, jump=186), 
+Level 22: Starts with: 4166
+(period=1, jump=15), (period=8, jump=22), (period=512, jump=85), 
+Level 23: Starts with: 4167
+(period=1, jump=1), (period=2, jump=14), (period=16, jump=21), (period=1024, jump=84), 
+Level 24: Starts with: 4169
+(period=1, jump=3), (period=4, jump=6), (period=32, jump=13), (period=2048, jump=76), 
+Level 25: Starts with: 4170
+(period=1, jump=1), (period=2, jump=2), (period=8, jump=5), (period=64, jump=12), (period=4096, jump=75), 
+Level 2: Starts with: 2
+(period=1, jump=3), 
+Level 3: Starts with: 3
+(period=1, jump=1), (period=2, jump=2), 
+Level 4: Starts with: 8
+(period=1, jump=7), 
+Level 5: Starts with: 9
+(period=1, jump=3), (period=2, jump=4), 
+Level 6: Starts with: 10
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), 
+Level 7: Starts with: 64
+(period=1, jump=127), 
+Level 8: Starts with: 65
+(period=1, jump=3), (period=2, jump=124), 
+Level 9: Starts with: 66
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=123), 
+Level 10: Starts with: 71
+(period=1, jump=15), (period=8, jump=22), 
+Level 11: Starts with: 72
+(period=1, jump=1), (period=2, jump=14), (period=16, jump=21), 
+Level 12: Starts with: 74
+(period=1, jump=3), (period=4, jump=6), (period=32, jump=13), 
+Level 13: Starts with: 75
+(period=1, jump=1), (period=2, jump=2), (period=8, jump=5), (period=64, jump=12), 
+Level 14: Starts with: 8192
+(period=1, jump=8191), 
+Level 15: Starts with: 8193
+(period=1, jump=3), (period=2, jump=8188), 
+Level 16: Starts with: 8194
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=8187), 
+Level 17: Starts with: 8199
+(period=1, jump=7), (period=8, jump=8142), 
+Level 18: Starts with: 8200
+(period=1, jump=3), (period=2, jump=4), (period=16, jump=8139), 
+Level 19: Starts with: 8201
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=3), (period=32, jump=8138), 
+Level 20: Starts with: 8255
+(period=1, jump=127), (period=64, jump=190), 
+Level 21: Starts with: 8256
+(period=1, jump=3), (period=2, jump=124), (period=128, jump=187), 
+Level 22: Starts with: 8257
+(period=1, jump=1), (period=2, jump=2), (period=4, jump=123), (period=256, jump=186), 
+Level 23: Starts with: 8262
+(period=1, jump=15), (period=8, jump=22), (period=512, jump=85), 
+Level 24: Starts with: 8263
+(period=1, jump=1), (period=2, jump=14), (period=16, jump=21), (period=1024, jump=84), 
+Level 25: Starts with: 8265
+(period=1, jump=3), (period=4, jump=6), (period=32, jump=13), (period=2048, jump=76), 
+Level 26: Starts with: 8266
+(period=1, jump=1), (period=2, jump=2), (period=8, jump=5), (period=64, jump=12), (period=4096, jump=75), 
